@@ -7,7 +7,7 @@ En este capítulo aparece el primer problema eclesiástico interno registrado en
 
 Era una posesión y el dinero que ocasionó este pecado (4:32), buscando lo suyo propio (Filipenses 2:21) y no las cosas que son del SEÑOR Jesús. Este "matrimonio cristiano" quería verse bien delante de los hermanos mientras disfrutaban también de la ganancia de su heredad. Su mujer también era parte del plan de mentir; no evita culpa (ni castigo) por ser mujer (Lucas 17:27-32). En el liderazgo y responsabilidad los hombres tienen que liderar, pero en el pecado todos somos iguales y reciberemos el mismo castigo por parte de Dios (Gálatas 3:28).
 
-En la relación entre hombre y mujer, la mujer tipifica a la iglesia, la "segunda eva" mientras el hombre apunta a Cristo. Aquí la mujer (Safira) es como la primera Eva en participar con su esposo en el pecado, y como el primer Adam y Eva los dos llevan el castigo. "**Defraudó**" parte del precio (1 Corintios 7:5?) y fue un pecado pero el problema más grande es que *echaron a perder la unanimidad de la iglesia* que existía de C. 2-4.
+En la relación entre hombre y mujer, la mujer tipifica a la iglesia, la "segunda eva" mientras el hombre apunta a Cristo. Aquí la mujer (Safira) es como la primera Eva en participar con su esposo en el pecado, y como el primer Adam y Eva los dos llevan el castigo. "**Defraudó**" parte del precio (1 Corintios 7:5?) y fue un pecado pero el problema más grande es que *echaron a perder la unanimidad de la iglesia* que existía de C. 2-4. Fue una *hipocresía* en que quiso verse más espiritual frente los demás.
 
 El pecado exacto era fingirse ser espirituales; era *hipocresía religiosa* (Mateo 6:2, 5, 16; 22:18; 23:13-15, 23, 25, 27, 29). "***parte*** **del precio... *la* depositó a los pies de los apóstoles**" porque querían parecerse como Barnabás con su dádiva a la iglesia, que fue hecho de buen corazón (4:32-37), sin pagar el precio de una entrega total por amor del cuerpo. 2 Timoteo 3:5; Romanos 12:9; Gálatas 2:11-13
 
@@ -28,7 +28,7 @@ Nota importante: "**has mentido...a Dios**" muestra que el Espíritu Santo (v. 3
 
 Similar a v. 10, murieron los dos. Nótese los mancebos útiles, los jóvenes serviendo en la iglesia, aprendiendo del ejemplo de los adultos.
 
-Aquí vemos la "disciplina eclesiástica" pero ejecutada por Dios, no por los hombres (1 Corintios 11:28-32). Así de importante a Dios es la pureza del cuerpo.
+Aquí vemos la "disciplina eclesiástica" pero ejecutada por Dios, no por los hombres (1 Corintios 11:27-32). Así de importante a Dios es la pureza del cuerpo.
 
 >7 **Y pasado el espacio como de tres horas, también su mujer entró, no sabiendo lo que había acontecido.** {#chapter05verse07}
 8 **Entonces Pedro le dijo: Díme. ¿Vendisteis en tanto la heredad? Y ella dijo: Si, en tanto.** {#chapter05verse08}
