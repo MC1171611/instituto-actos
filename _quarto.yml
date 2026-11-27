@@ -1,0 +1,60 @@
+project:
+  type: book
+  output-dir: _book
+
+lang: es
+
+book:
+  title: "Los Actos de los Apóstoles"
+  subtitle: "Comentario sobre el libro de los Actos de los Apóstoles, basado en la Biblia Reina-Valera 1865"
+  author: "Instituto Bíblico Valera Online"
+  chapters:
+    - index.md
+    - actos-01.md
+    - actos-02.md
+    - actos-03.md
+    - actos-04.md
+    - actos-05.md
+    - actos-06.md
+    - actos-07.md
+    - actos-08.md
+    - actos-09.md
+    - actos-10.md
+    - actos-11.md
+    - actos-12.md
+    - actos-13.md
+    - actos-14.md
+    - actos-15.md
+    - actos-16.md
+    - actos-17.md
+    - actos-18.md
+    - actos-19.md
+    - actos-20.md
+    - actos-21.md
+    - actos-22.md
+    - actos-23.md
+    - actos-24.md
+    - actos-25.md
+    - actos-26.md
+    - actos-27.md
+    - actos-28.md
+
+number-sections: false
+
+filters:
+  - filters/scripture.lua
+
+format:
+  html:
+    theme: default
+    css: styles/book.css
+    toc: true
+  epub:
+    css: styles/epub.css
+  pdf:
+    documentclass: scrbook
+    pdf-engine: xelatex
+    papersize: a5
+    fontsize: 10pt
+    mainfont: "Times New Roman"
+    include-in-header: styles/preamble.tex

@@ -1,0 +1,89 @@
+# Actos 9 {#act-9}
+
+::: scripture
+[1]{.vn #act-9-1} Y Saulo aun resoplando amenazas y muerte contra los discípulos del Señor, vino al sumo sacerdote,
+
+[2]{.vn #act-9-2} Y demandó de él cartas para Damasco a las sinagogas, para que si hallase algunos de este camino, varones o mujeres, los trajese presos a Jerusalem.
+
+[3]{.vn #act-9-3} Y yendo por el camino, aconteció que llegó cerca de Damasco, y súbitamente le cercó un resplandor de luz del cielo.
+
+[4]{.vn #act-9-4} Y cayendo en tierra, oyó una voz que le decía: Saulo, Saulo, ¿por qué me persigues?
+
+[5]{.vn #act-9-5} Y él dijo: ¿Quién eres, Señor? Y el Señor dijo: Yo soy Jesús a quien tú persigues: dura *cosa* te *es* dar coces contra el aguijón.
+
+[6]{.vn #act-9-6} Y él temblando y asombrado, dijo: Señor, ¿qué quieres que yo haga? Y el Señor le *dijo*: Levántate, y entra en la ciudad; y te se dirá lo que debes hacer.
+
+[7]{.vn #act-9-7} Y los varones que iban con él, se pararon atónitos, oyendo a la verdad la voz, mas no viendo a nadie.
+
+[8]{.vn #act-9-8} Entonces Saulo se levantó de tierra, y abriendo los ojos no veía a nadie; mas llevándole por la mano, *le* metieron en Damasco.
+
+[9]{.vn #act-9-9} Y estuvo tres días sin ver; y no comió, ni bebió.
+
+[10]{.vn #act-9-10} ¶ Y había un discípulo en Damasco, llamado Ananías, al cual el Señor dijo en visión: Ananías. Y él respondió: He aquí *estoy*, Señor.
+
+[11]{.vn #act-9-11} Y el Señor le *dijo*: Levántate, y vé a la calle, que se llama la Derecha, y busca en casa de Júdas a Saulo, llamado el de Tarso; porque, he aquí, él ora:
+
+[12]{.vn #act-9-12} Y ha visto en visión a un varón llamado Ananías, que entra, y le pone la mano encima para que reciba la vista.
+
+[13]{.vn #act-9-13} Entonces Ananías respondió: Señor, he oído *decir a* muchos de este varón, cuantos males ha hecho a tus santos en Jerusalem;
+
+[14]{.vn #act-9-14} Y aun aquí tiene facultad de los príncipes de los sacerdotes para atar a todos los que invocan tu nombre.
+
+[15]{.vn #act-9-15} Y le dijo el Señor: Vé; porque vaso escogido me es éste, para que lleve mi nombre en presencia de los Gentiles, y de reyes, y de los hijos de Israel.
+
+[16]{.vn #act-9-16} Porque yo le mostraré cuán grandes cosas le es menester que padezca por mi nombre.
+
+[17]{.vn #act-9-17} Ananías entonces fue, y entró en la casa; y poniéndole las manos encima, dijo: Saulo, hermano, el Señor, a *saber*, Jesús, que te apareció en el camino por donde venías, me ha enviado para que recibas la vista, y seas lleno del Espíritu Santo.
+
+[18]{.vn #act-9-18} Y al instante le cayeron de los ojos como escamas, y recibió luego la vista; y levantándose fue bautizado.
+
+[19]{.vn #act-9-19} Y cuando hubo comido, fue confortado. Y estuvo Saulo con los discípulos que estaban en Damasco, por algunos días.
+
+[20]{.vn #act-9-20} ¶ Y luego en las sinagogas predicaba a Cristo, que éste es el Hijo de Dios.
+
+[21]{.vn #act-9-21} Mas todos los que *le* oían estaban atónitos, y decían: ¿No es éste el que asolaba en Jerusalem a los que invocaban este nombre; y a eso vino acá para llevarlos atados a los príncipes de los sacerdotes?
+
+[22]{.vn #act-9-22} Empero Saulo mucho más se esforzaba, y confundía a los Judíos que moraban en Damasco demostrando que éste es el Cristo.
+
+[23]{.vn #act-9-23} ¶ Y pasados muchos días, acordaron juntos los Judíos de matarle.
+
+[24]{.vn #act-9-24} Mas las asechanzas de ellos fueron entendidas de Saulo: y ellos guardaban las puertas de día y de noche, para matarle.
+
+[25]{.vn #act-9-25} Entonces los discípulos, tomándole de noche, *le* bajaron por el muro metido en una espuerta.
+
+[26]{.vn #act-9-26} Y como Saulo vino a Jerusalem, tentaba de juntarse con los discípulos; mas todos tenían miedo de él, no creyendo que era discípulo.
+
+[27]{.vn #act-9-27} Entonces Barnabás, tomándole, *le* trajo a los apóstoles; y les contó, como había visto al Señor en el camino, y que él le había hablado, y como en Damasco había hablado animosamente en el nombre de Jesús.
+
+[28]{.vn #act-9-28} Y estaba con ellos, entrando y saliendo en Jerusalem.
+
+[29]{.vn #act-9-29} Y hablaba animosamente en el nombre del Señor Jesús, y disputaba con los Griegos; mas ellos procuraban de matarle.
+
+[30]{.vn #act-9-30} *Lo cual* como los hermanos entendieron, le acompañaron hasta Cesarea, y le enviaron a Tarso.
+
+[31]{.vn #act-9-31} Las iglesias entonces por toda Judea, y Galilea, y Samaria, tenían paz, y eran edificadas; y andando en el temor del Señor, y en el consuelo del Espíritu Santo eran multiplicadas.
+
+[32]{.vn #act-9-32} ¶ Y aconteció, que Pedro andando por todas *partes*, vino también *a* los santos que habitaban en Lidda.
+
+[33]{.vn #act-9-33} Y halló allí a uno que se llamaba Enéas, que había ya ocho años que estaba en cama, que era paralítico.
+
+[34]{.vn #act-9-34} Y le dijo Pedro: Enéas, Jesu Cristo te sana: levántate, y hazte tu cama. Y luego se levantó.
+
+[35]{.vn #act-9-35} Y viéronle todos los que habitaban en Lidda y en Sarona, los cuales se convirtieron al Señor.
+
+[36]{.vn #act-9-36} ¶ Y había en Joppe una discípula llamada Tabita, que interpretado, quiere decir Dórcas. Esta era llena de buenas obras, y de limosnas que hacía.
+
+[37]{.vn #act-9-37} Y aconteció en aquellos días, que enfermando, murió; la cual después de lavada, *la* pusieron en un cenadero.
+
+[38]{.vn #act-9-38} Y como Lidda estaba cerca de Joppe, los discípulos, oyendo que Pedro estaba allí, le enviaron dos varones, rogándo*le*: No te detengas de venir a nosotros.
+
+[39]{.vn #act-9-39} Pedro entonces levantándose, vino con ellos. Y como llegó, le llevaron al cenadero, y se le presentaron todas las viudas, llorando y mostrándole las túnicas y los vestidos que Dórcas hacía, cuando estaba con ellas.
+
+[40]{.vn #act-9-40} Entonces echados fuera todos, Pedro puesto de rodillas, oró; y vuelto al cuerpo, dijo: Tabita, levántate. Y ella abrió los ojos; y viendo a Pedro, se sentó.
+
+[41]{.vn #act-9-41} Y dándole él la mano, la levantó: entonces llamando a los santos y a las viudas, la presentó viva.
+
+[42]{.vn #act-9-42} Esto fue conocido por toda Joppe; y creyeron muchos en el Señor.
+
+[43]{.vn #act-9-43} Y aconteció que se quedó muchos días en Joppe, en casa de un *cierto* Simón curtidor.
+:::

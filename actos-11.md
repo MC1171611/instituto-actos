@@ -1,0 +1,63 @@
+# Actos 11 {#act-11}
+
+::: scripture
+[1]{.vn #act-11-1} Y oyeron los apóstoles, y los hermanos que estaban en Judea, que también los Gentiles habían recibido la palabra de Dios.
+
+[2]{.vn #act-11-2} Y como Pedro subió a Jerusalem, contendían contra él los que eran de la circuncisión,
+
+[3]{.vn #act-11-3} Diciendo: ¿Por qué has entrado a varones incircuncisos, y has comido con ellos?
+
+[4]{.vn #act-11-4} Entonces comenzando Pedro, les declaró por orden *lo pasado*, diciendo:
+
+[5]{.vn #act-11-5} Estando yo en la ciudad de Joppe orando, ví, en éxtasis, una visión: *Ví* un vaso, como un gran lienzo, que descendía, que por los cuatro cantos fue bajado del cielo, y venía hasta mí.
+
+[6]{.vn #act-11-6} En el cual como puse los ojos, consideré, y ví animales terrestres cuadrúpedos, y fieras, y reptiles, y aves del cielo.
+
+[7]{.vn #act-11-7} Y oí también una voz que me decía: Levántate, Pedro, mata, y come.
+
+[8]{.vn #act-11-8} Y dije: Señor, no; porque ninguna cosa común ni inmunda entró jamás en mi boca.
+
+[9]{.vn #act-11-9} Entonces la voz me respondió del cielo la segunda vez: Lo que Dios limpió, no *lo* ensucies tú.
+
+[10]{.vn #act-11-10} Y esto fue hecho por tres veces; y volvió todo a ser tomado arriba en el cielo.
+
+[11]{.vn #act-11-11} Y he aquí que luego tres varones sobrevinieron en la casa donde yo estaba, enviados a mí de Cesarea.
+
+[12]{.vn #act-11-12} Y el Espíritu me dijo, que me fuese con ellos sin dudar. Y vinieron también conmigo estos seis hermanos, y entrámos en la casa del varón,
+
+[13]{.vn #act-11-13} El cual nos contó como había visto a un ángel en su casa, que se paró, y le dijo: Envía hombres a Joppe, y haz venir a Simón, que tiene por sobrenombre Pedro,
+
+[14]{.vn #act-11-14} El cual te hablará palabras por las cuales serás salvo tú, y toda tu casa.
+
+[15]{.vn #act-11-15} Y como comencé a hablar, cayó el Espíritu Santo sobre ellos, como sobre nosotros al principio.
+
+[16]{.vn #act-11-16} Entonces me acordé del dicho del Señor, como dijo: Juan ciertamente bautizó con agua; mas vosotros seréis bautizados con el Espíritu Santo.
+
+[17]{.vn #act-11-17} Así que, si Dios les dio el mismo don a ellos también como a nosotros que hemos creído en el Señor Jesu Cristo, ¿quién era yo que pudiese estorbar a Dios?
+
+[18]{.vn #act-11-18} Entonces, oídas estas cosas, callaron, y glorificaron a Dios, diciendo: De manera que también a los Gentiles ha dado Dios arrepentimiento para vida.
+
+[19]{.vn #act-11-19} ¶ Y los que habían sido esparcidos por la persecución que fue hecha a causa de Esteban, anduvieron hasta Fenicia, y Chipre, y Antioquía, no hablando a nadie la palabra, sino a solos los Judíos.
+
+[20]{.vn #act-11-20} Y algunos de ellos eran varones de Chipre, y de Cirene, los cuales como entraron en Antioquía, hablaron a los Griegos, anunciándo*les* al Señor Jesús.
+
+[21]{.vn #act-11-21} Y la mano del Señor era con ellos; y un gran número creyendo se convirtió al Señor.
+
+[22]{.vn #act-11-22} Y llegó la fama de estas cosas a oídos de la iglesia que estaba en Jerusalem; y enviaron a Barnabás que fuese hasta Antioquía:
+
+[23]{.vn #act-11-23} El cual como llegó, y vio la gracia de Dios, se gozó; y exhortó a todos que con propósito de corazón permaneciesen en el Señor.
+
+[24]{.vn #act-11-24} Porque era varón bueno, y lleno del Espíritu Santo, y de fe; y mucha gente fue allegada al Señor.
+
+[25]{.vn #act-11-25} Y se partió Barnabás a Tarso para buscar a Saulo:
+
+[26]{.vn #act-11-26} Y hallándole, le trajo a Antioquía. Y sucedió que todo un año se reunieron allí con la iglesia; y enseñaron mucha gente: y los discípulos fueron llamados Cristianos primeramente en Antioquía.
+
+[27]{.vn #act-11-27} Y en aquellos días descendieron de Jerusalem profetas a Antioquía.
+
+[28]{.vn #act-11-28} Y levantándose uno de ellos, llamado Agabo, daba a entender por el Espíritu, que había de haber una grande hambre en todo el mundo, la cual también vino en tiempo de Claudio César.
+
+[29]{.vn #act-11-29} Entonces los discípulos, cada uno conforme a lo que tenía, determinaron de enviar subsidio a los hermanos que habitaban en Judea.
+
+[30]{.vn #act-11-30} Lo cual asimismo hicieron, enviándolo a los ancianos por mano de Barnabás y de Saulo.
+:::
